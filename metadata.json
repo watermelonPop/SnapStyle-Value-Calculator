@@ -1,0 +1,6 @@
+{
+  "name": "SnapStyle Value Calculator",
+  "description": "Interactive value calculator estimating monthly online clothing savings and benefit-cost ratios across SnapStyle plans.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
